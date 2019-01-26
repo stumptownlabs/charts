@@ -6,7 +6,7 @@ Applications, provided by [Stumptown Labs](https://stumptownlabs.com), ready to 
 
 ```bash
 $ helm repo add stumptownlabs https://stumptownlabs.github.io/charts
-$ helm search stumptown
+$ helm search stumptownlabs
 ```
 
 ## Upstreamed charts (contributed to [helm/charts](https://github.com/helm/charts))
